@@ -99,7 +99,8 @@ It provides practical experience in:
 - Model evaluation and comparison
 
 ## 👨‍💻 Author
-Nawaz Shareef Shaik
+
+**Nawaz Shareef Shaik**
 **Machine Learning Project – Breast Cancer Classification**
 
 ⭐ If you find this project useful, don't forget to star the repository!
